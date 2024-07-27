@@ -6,7 +6,7 @@ Habilidades: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-
 
 - 🔭 Estoy trabajando en Workana como Freelancer. 
 - 🌱 Estoy aprendiendo todo lo relacionado con la creación de Bots de Telegram. 
-- 👯 Estoy interesado en colaborar con empresas y personas interesadas en la automatización 
+- 👯 Estoy interesado en colaborar con empresas y personas en proyectos de automatización
 - 📫 Cómo contactarme: ycamorejon@gmail.com 
 
 
